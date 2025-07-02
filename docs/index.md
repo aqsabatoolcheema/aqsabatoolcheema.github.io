@@ -10,7 +10,7 @@ Hello!
 
 I am Aqsa, a Ph.D. student at the University of Stavanger, supervised by Dr.
 
-My research focus on ...
+My research focus on catalyst...
 
 
 
