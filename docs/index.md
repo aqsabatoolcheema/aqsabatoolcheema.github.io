@@ -8,7 +8,7 @@
 Hello!
 
 
-I am Aqsa, a Ph.D. student at the University of Stavanger, supervised by Dr.
+I am Aqsa Batool, a PhD. student at the University of Stavanger, supervised by Dr.
 
 My research focus on catalyst...
 
