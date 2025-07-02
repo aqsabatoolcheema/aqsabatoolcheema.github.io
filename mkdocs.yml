@@ -1,0 +1,41 @@
+site_name: Aqsa Batool
+
+theme: 
+    name: material
+    palette:
+        primary: blue
+    highlightjs: true
+    hljs_languages:
+        - yaml
+    features:
+        - navigation.footer
+        
+extra_css:
+  - css/stylesheet.css
+
+site_url: https://aqsabatoolcheema.github.io/
+
+
+site_description: Personal Webpage of Aqsa Batool
+nav:
+    - Home: index.md
+    - CV:  cv.md
+
+
+copyright: Copyright &copy; 2025 Aqsa Batool
+
+
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
